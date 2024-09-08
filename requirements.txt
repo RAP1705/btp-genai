@@ -1,0 +1,10 @@
+generative-ai-hub-sdk
+langchain
+langchain_community
+hdbcli
+python-dotenv
+streamlit
+langchain-google-genai
+langchain-aws
+langchain-google-vertexai
+langchain-openai
